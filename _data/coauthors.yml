@@ -1,34 +1,35 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Sha":
+  - firstname: ["Lui"]
+    url: https://cs.illinois.edu/about/people/faculty/lrs
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Bansal":
+  - firstname: ["Ayoosh"]
+    url: https://www.ayooshbansal.com/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Caccamo":
+  - firstname: ["Marco"]
+    url: https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Yu":
+  - firstname: ["Simon"]
+    url: https://www.simonyu.net/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Kim":
+  - firstname: ["Hunmin"]
+    url: https://engineering.mercer.edu/meet-the-faculty/dr-hunmin-kim/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Li":
+  - firstname: ["Bo"]
+    url: https://aisecure.github.io/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Hovakimyan":
+  - firstname: ["Naira"]
+    url: https://naira.mechse.illinois.edu/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Verucchi":
+  - firstname: ["Micaela"]
+    url: https://www.linkedin.com/in/micaela-verucchi-616318133
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Abdelzaher":
+  - firstname: ["Tarek"]
+    url: https://abdelzaher.cs.illinois.edu/
