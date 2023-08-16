@@ -7,74 +7,55 @@ nav: true
 nav_order: 5
 ---
 
+<style>
+.people-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
 
-## Director
+.person {
+  width: calc(33.33% - 20px); /* Adjust the width as needed for the desired number of entries per row */
+  margin-bottom: 20px;
+  text-align: center;
+}
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-2 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/lui-sha.png" title="Lui Sha" class="img-fluid rounded z-depth-1" %}
+.person-photo {
+  width: auto;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.person-name {
+  font-weight: bold;
+  font-size: 1.2em; /* Adjust the font size as needed */
+}
+
+.person-designation {
+  color: #666;
+}
+</style>
+
+
+{% assign people_by_designation = site.data.people | group_by: "designation" %}
+
+{% for group in people_by_designation %}
+<h2>{{ group.name }}</h2>
+<div class="people-grid">
+  {% for person in group.items %}
+  <div class="person">
+    <img src="{{ person.photo }}" alt="{{ person.name }}" class="person-photo">
+    <div class="person-info">
+      {% if person.url %}
+        <h2 class="person-name"><a href="{{ person.url }}">{{ person.name }}</a></h2>
+      {% else %}
+        <h2 class="person-name">{{ person.name }}</h2>
+      {% endif %}    
     </div>
+  </div>
+  {% endfor %}
 </div>
-<div class="caption">
-    Lui Sha
-</div>
+{% endfor %}
 
-## Faculty
-
-Tarek Abdelzaher
-
-Naira Hovakimyan
-
-Yanbing Mao
-
-Huajie Shao
-
-Qixin Wang 
- 
-## Students
-
-Ayoosh Bansal
-
-Shuang Song
-
-Simon Yu
-
-
-## Alumni
-
-Xue Liu
-
-Ajay Tirumala
-
-Heechul Yun
-
-Qixin Wang
-
-Jung-Eun Kim
-
-Man-Ki Yoon
-
-Minyoung Nam
-
-Abdullah Al-Nayeem
-
-Sathish Gopalakrishnan,
-
-Daniel Shih, 
-
-Po-Liang Wu
-
-Kihwal Lee, 
-
-Mu Sun
-
-Sumant Kowshik
-
-Mohammad Hosseini
-
-Maryam Rahmaniheris
-
-Andrew Yi-Zong Ou
-
-Julie Chen
 

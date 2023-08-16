@@ -1,35 +1,35 @@
 "Sha":
-  - firstname: ["Lui"]
+  - firstname: ["Lui", "L."]
     url: https://cs.illinois.edu/about/people/faculty/lrs
 
 "Bansal":
-  - firstname: ["Ayoosh"]
+  - firstname: ["Ayoosh", "A."]
     url: https://www.ayooshbansal.com/
 
 "Caccamo":
-  - firstname: ["Marco"]
+  - firstname: ["Marco", "M."]
     url: https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/
 
 "Yu":
-  - firstname: ["Simon"]
+  - firstname: ["Simon", "S."]
     url: https://www.simonyu.net/
 
 "Kim":
-  - firstname: ["Hunmin"]
+  - firstname: ["Hunmin", "H."]
     url: https://engineering.mercer.edu/meet-the-faculty/dr-hunmin-kim/
 
 "Li":
-  - firstname: ["Bo"]
+  - firstname: ["Bo", "B."]
     url: https://aisecure.github.io/
 
 "Hovakimyan":
-  - firstname: ["Naira"]
+  - firstname: ["Naira", "N."]
     url: https://naira.mechse.illinois.edu/
 
 "Verucchi":
-  - firstname: ["Micaela"]
+  - firstname: ["Micaela", "M."]
     url: https://www.linkedin.com/in/micaela-verucchi-616318133
 
 "Abdelzaher":
-  - firstname: ["Tarek"]
+  - firstname: ["Tarek", "T."]
     url: https://abdelzaher.cs.illinois.edu/
