@@ -5,7 +5,8 @@ description: Physics Model Guided Machine Learning
 img: assets/img/physics-ai.jpg
 importance: 1
 category: physics-ai
-related_publications: 
+related_publications:
+selected: true
 ---
 
 <div style="text-align: justify;">

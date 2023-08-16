@@ -6,6 +6,7 @@ img: assets/img/polaris-gem.png
 importance: 1
 category: av-safety
 related_publications: bansal2022verifiable, bansal2022synergistic, bansal2021risk
+selected: true
 ---
 
 <div style="text-align: center;">
