@@ -32,17 +32,25 @@
 # Students
 
 - name: Ayoosh Bansal
-  designation: Student
+  designation: Students
   photo: /assets/img/profile/ayoosh-bansal.jpg
   url: https://www.ayooshbansal.com/
+  note: PhD, CS
 
 - name: Shuang Song
-  designation: Student
+  designation: Students
   photo: /assets/img/profile/default.jpg
+  note: PhD, CS
 
 - name: Simon Yu
-  designation: Student
+  designation: Students
   photo: /assets/img/profile/default.jpg
+  note: PhD, ECE
+
+- name: James Zhu
+  designation: Students
+  photo: /assets/img/profile/james-zhu.jpg
+  note: Undergraduate, ECE
 
 
 # Alumni

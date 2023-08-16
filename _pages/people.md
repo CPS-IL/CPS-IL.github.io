@@ -35,6 +35,12 @@ nav_order: 5
 .person-designation {
   color: #666;
 }
+
+.person-note {
+  font-size: 0.8em;
+  color: #999;
+}
+
 </style>
 
 
@@ -51,7 +57,10 @@ nav_order: 5
         <h2 class="person-name"><a href="{{ person.url }}">{{ person.name }}</a></h2>
       {% else %}
         <h2 class="person-name">{{ person.name }}</h2>
-      {% endif %}    
+      {% endif %}
+      {% if person.note %}
+        <p class="person-note">{{ person.note }}</p>
+      {% endif %}
     </div>
   </div>
   {% endfor %}
