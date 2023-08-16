@@ -1,0 +1,116 @@
+- name: Lui Sha
+  designation: Director
+  photo: /assets/img/profile/lui-sha.png
+  url: https://cs.illinois.edu/about/people/faculty/lrs
+
+- name: Tarek Abdelzaher
+  designation: Faculty
+  photo: /assets/img/profile/tarek.png
+  url: https://abdelzaher.cs.illinois.edu/
+
+- name: Naira Hovakimyan
+  designation: Faculty
+  photo: /assets/img/profile/Naira.jpg
+  url: https://naira-hovakimyan.mechse.illinois.edu/
+
+- name: Yanbing Mao
+  designation: Faculty
+  photo: /assets/img/profile/yanbing-mao.jpg
+  url: https://ymao578.github.io/index.html
+
+- name: Huajie Shao
+  designation: Faculty
+  photo: /assets/img/profile/huajie.jpg
+  url: https://shj1987.github.io/
+
+- name: Qixin Wang 
+  designation: Faculty
+  photo: /assets/img/profile/qixin-wang.jpg
+  url: https://www4.comp.polyu.edu.hk/~csqwang/
+
+
+# Students
+
+- name: Ayoosh Bansal
+  designation: Student
+  photo: /assets/img/profile/ayoosh-bansal.jpg
+  url: https://www.ayooshbansal.com/
+
+- name: Shuang Song
+  designation: Student
+  photo: /assets/img/profile/default.jpg
+
+- name: Simon Yu
+  designation: Student
+  photo: /assets/img/profile/default.jpg
+
+
+# Alumni
+
+- name: Xue Liu
+  designation: Alumni
+  photo: /assets/img/profile/default.jpg
+
+- name: Ajay Tirumala
+  designation: Alumni
+  photo: /assets/img/profile/default.jpg
+
+- name: Heechul Yun
+  designation: Alumni
+  photo: /assets/img/profile/default.jpg
+
+- name: Jung-Eun Kim
+  designation: Alumni
+  photo: /assets/img/profile/default.jpg
+
+- name: Man-Ki Yoon
+  designation: Alumni
+  photo: /assets/img/profile/default.jpg
+
+- name: Minyoung Nam
+  designation: Alumni
+  photo: /assets/img/profile/default.jpg
+
+- name: Abdullah Al-Nayeem
+  designation: Alumni
+  photo: /assets/img/profile/default.jpg
+
+- name: Sathish Gopalakrishnan
+  designation: Alumni
+  photo: /assets/img/profile/default.jpg
+
+- name: Daniel Shih
+  designation: Alumni
+  photo: /assets/img/profile/default.jpg
+
+- name: Po-Liang Wu
+  designation: Alumni
+  photo: /assets/img/profile/default.jpg
+
+- name: Kihwal Lee
+  designation: Alumni
+  photo: /assets/img/profile/default.jpg
+
+- name: Mu Sun
+  designation: Alumni
+  photo: /assets/img/profile/default.jpg
+
+- name: Sumant Kowshik
+  designation: Alumni
+  photo: /assets/img/profile/default.jpg
+
+- name: Mohammad Hosseini
+  designation: Alumni
+  photo: /assets/img/profile/default.jpg
+
+- name: Maryam Rahmaniheris
+  designation: Alumni
+  photo: /assets/img/profile/default.jpg
+
+- name: Andrew Yi-Zong Ou
+  designation: Alumni
+  photo: /assets/img/profile/default.jpg
+
+- name: Julie Chen
+  designation: Alumni
+  photo: /assets/img/profile/default.jpg
