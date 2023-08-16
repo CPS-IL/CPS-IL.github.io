@@ -5,7 +5,10 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 1
-display_categories: [physics-ai, av-safety]
+
+# The order of categories defines the order of appearance on projects page.
+# category on _projects/*.md has to match exactly to display_categories for a project to appear.
+display_categories: [Physics Integrated Machine Learning, Physics Regulated Deep Learning]
 horizontal: false
 ---
 

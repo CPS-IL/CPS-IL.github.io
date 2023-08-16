@@ -4,7 +4,7 @@ title: Safety
 description: Verifiable Safety for Autonomous Vehicles
 img: assets/img/polaris-gem.png
 importance: 1
-category: av-safety
+category: Physics Regulated Deep Learning
 related_publications: bansal2022verifiable, bansal2022synergistic, bansal2021risk
 selected: true
 ---
