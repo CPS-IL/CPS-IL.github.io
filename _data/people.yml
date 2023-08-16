@@ -23,11 +23,15 @@
   photo: /assets/img/profile/huajie.jpg
   url: https://shj1987.github.io/
 
-- name: Qixin Wang 
+- name: Qixin Wang
   designation: Faculty
   photo: /assets/img/profile/qixin-wang.jpg
   url: https://www4.comp.polyu.edu.hk/~csqwang/
 
+- name: Han Zhao
+  designation: Faculty
+  photo: /assets/img/profile/han-zhao.png
+  url: https://cs.illinois.edu/about/people/faculty/hanzhao
 
 # Students
 
