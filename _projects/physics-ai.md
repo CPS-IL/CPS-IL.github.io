@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Physics AI
+title: Safe Physics-AI
 description: Physics Model Guided Machine Learning
 img: assets/img/physics-ai.jpg
 importance: 1
