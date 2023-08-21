@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Safety
+title: Safe Use of AI
 description: Verifiable Safety for Autonomous Vehicles
 img: assets/img/polaris-gem.png
 importance: 1

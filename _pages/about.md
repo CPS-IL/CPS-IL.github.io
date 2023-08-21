@@ -27,7 +27,7 @@ Modern real-time scheduling theory was started by Professor David Liu at UIUC wi
 Built upon this pioneering work, Professor Lui Sha and his collaborators created the modern real-time scheduling theory that transformed the real-time computing standards and impacted [many national high technology projects](http://publish.illinois.edu/cpsintegrationlab/files/2012/02/Space.pdf).
 
 
-## selected projects
+## Selected Projects
 ---
 
 <!-- pages/projects.md -->

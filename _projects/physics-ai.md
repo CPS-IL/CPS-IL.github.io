@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Physics AI
+title: Safe Physics AI
 description: Physics Model Guided Machine Learning
 img: assets/img/physics-ai.jpg
 importance: 1
 category: Physics Integrated Machine Learning
-related_publications: cao2023physical
+related_publications:
 selected: true
 ---
 
@@ -21,6 +21,7 @@ Traditionally,  we project a higher dimensional space to a lower dimension space
 
 </div>
 
+## Primary Work: Physics-Regulated Deep Reinforcement Learning Towards Safety Guarantee
 
 
 <div style="text-align: center;">
@@ -38,3 +39,5 @@ Traditionally,  we project a higher dimensional space to a lower dimension space
 <div style="text-align: center;">
   <img src="/assets/img/physics-ai/ph4.png" alt="Centered Image" style="width: 500px; height: auto;">
 </div>
+
+
