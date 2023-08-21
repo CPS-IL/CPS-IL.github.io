@@ -25,19 +25,7 @@ Traditionally,  we project a higher dimensional space to a lower dimension space
 
 
 <div style="text-align: center;">
-  <img src="/assets/img/physics-ai/ph1.png" alt="Centered Image" style="width: 500px; height: auto;">
-</div>
-
-<div style="text-align: center;">
   <img src="/assets/img/physics-ai/ph2.png" alt="Centered Image" style="width: 500px; height: auto;">
-</div>
-
-<div style="text-align: center;">
-  <img src="/assets/img/physics-ai/ph3.png" alt="Centered Image" style="width: 500px; height: auto;">
-</div>
-
-<div style="text-align: center;">
-  <img src="/assets/img/physics-ai/ph4.png" alt="Centered Image" style="width: 500px; height: auto;">
 </div>
 
 
