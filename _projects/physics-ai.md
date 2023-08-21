@@ -23,17 +23,16 @@ Traditionally,  we project a higher dimensional space to a lower dimension space
 
 ##### Work 1: Phy-DRL: Physics-Regulated Deep Reinforcement Learning (DRL) Towards Safety Guarantee
 <p>
-###### Phy-DRL = Physics Model-Based Policy + Data-Driven DRL Policy. 
+##### Phy-DRL = Physics Model-Based Policy + Data-Driven DRL Policy. 
 <div style="text-align: center;">
   <img src="/assets/img/physics-ai/phydrl.png" alt="Centered Image" style="width: 500px; height: auto;">
 </div>
 </p>
 
-<p>
-Phy-DRL's Benefits: 
+== Phy-DRL's Benefits: 
 - Best-Trade-Off: Simplify model-based policy to be an analyzable and verifiable linear one, while offering fast and stable training. 
 - Performance: Mathematically-provable safety and stability guarantees, with high system performance.  
-</p>
+
 
 
 
