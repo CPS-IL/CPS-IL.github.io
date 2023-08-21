@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Safe Physics AI
+title: Physics AI
 description: Physics Model Guided Machine Learning
 img: assets/img/physics-ai.jpg
 importance: 1
@@ -21,7 +21,14 @@ Traditionally,  we project a higher dimensional space to a lower dimension space
 
 </div>
 
-## Primary Work: Physics-Regulated Deep Reinforcement Learning Towards Safety Guarantee
+## Phy-DRL: Physics-Regulated Deep Reinforcement Learning Towards Safety Guarantee
+
+Phy-DRL = Physics Model-Based Policy + Data-Driven DRL Policy, showing in  
+
+<div style="text-align: center;">
+  <img src="/assets/img/physics-ai/phydrl.png" alt="Centered Image" style="width: 500px; height: auto;" {11}>
+</div>
+
 
 
 <div style="text-align: center;">
