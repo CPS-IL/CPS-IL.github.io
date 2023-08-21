@@ -21,13 +21,16 @@ Traditionally,  we project a higher dimensional space to a lower dimension space
 
 </div>
 
-# Work 1: Phy-DRL: Physics-Regulated Deep Reinforcement Learning (DRL) Towards Safety Guarantee
+### Work 1: Phy-DRL: Physics-Regulated Deep Reinforcement Learning (DRL) Towards Safety Guarantee
 
 Phy-DRL = Physics Model-Based Policy + Data-Driven DRL Policy. 
+<div style="text-align: center;">
+  <img src="/assets/img/physics-ai/phydrl.png" alt="Centered Image" style="width: 500px; height: auto;">
+</div>
 
 *Experiment in Cart-Pole Systems.* 
 <div style="text-align: center;">
-  <img src="/assets/img/physics-ai/phydrl.png" alt="Centered Image" style="width: 500px; height: auto;">
+  <img src="/assets/img/physics-ai/id.png" alt="Centered Image" style="width: 500px; height: auto;">
 </div>
 
 *Experiment in Quadruped Robot: safe lane tracking, safe velocity regulation, and safe center-gravity management.* 
