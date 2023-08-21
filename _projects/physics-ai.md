@@ -21,12 +21,14 @@ Traditionally,  we project a higher dimensional space to a lower dimension space
 
 </div>
 
-## Phy-DRL: Physics-Regulated Deep Reinforcement Learning Towards Safety Guarantee
+</p>
 
-Phy-DRL = Physics Model-Based Policy + Data-Driven DRL Policy, showing in  
+## Phy-DRL: Physics-Regulated Deep Reinforcement Learning (DRL) Towards Safety Guarantee
+
+# Phy-DRL = Physics Model-Based Policy + Data-Driven DRL Policy, showing in  
 
 <div style="text-align: center;">
-  <img src="/assets/img/physics-ai/phydrl.png" alt="Centered Image" style="width: 500px; height: auto;" {11}>
+  <img src="/assets/img/physics-ai/phydrl.png" alt="Centered Image" style="width: 500px; height: auto;">
 </div>
 
 
