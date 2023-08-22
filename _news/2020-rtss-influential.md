@@ -8,8 +8,6 @@ onlyyear: true
 related_publications: Lehoczky1989166
 ---
 
-<div style="text-align: justify;">
 Lui Sha's paper, “The Rate-Monotonic Scheduling Algorithm: Exact Characterization and Average-Case Behavior,” received the 2020 RTSS Influential Paper Award.  
-</div>
 
 <br>
