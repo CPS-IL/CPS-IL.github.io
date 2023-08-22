@@ -8,6 +8,11 @@
   photo: /assets/img/profile/tarek.png
   url: https://abdelzaher.cs.illinois.edu/
 
+- name: Marco Caccamo
+  designation: Faculty
+  photo: /assets/img/profile/marco-caccamo.jpg
+  url: https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/
+
 - name: Naira Hovakimyan
   designation: Faculty
   photo: /assets/img/profile/Naira.jpg
@@ -40,6 +45,12 @@
   photo: /assets/img/profile/ayoosh-bansal.jpg
   url: https://www.ayooshbansal.com/
   note: PhD, CS
+
+- name: Hongpeng Cao
+  designation: Students
+  photo: /assets/img/profile/hongpeng-cao.jpg
+  url: https://rtsl.cps.mw.tum.de/view_member?id=15
+  note: PhD
 
 - name: Shuang Song
   designation: Students
