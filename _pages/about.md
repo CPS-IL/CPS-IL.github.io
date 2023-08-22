@@ -68,15 +68,8 @@ Profess David Liu is the pioneer of real-time system schedulability analysis. Hi
   <img src="/assets/img/Mars_pathfinder.jpg" alt="Image">
 </div>
 
-<div style="text-align: justify;">
-  <p>
-    <ul>
-      <li>
-        Digital Avionics: National Academy of Science’s Committee on Certifiably Dependable Systems wrote, “One key to achieving dependability at a reasonable cost is a serious and sustained commitment to simplicity, including simplicity of critical functions and simplicity in system interactions. This commitment is often the mark of true expertise.  There is no alternative to simplicity. Advances in technology or development methods will not make simplicity redundant; on the contrary, they will give it greater leverage”. A notable invention of our team in this area is the Physically Asynchronous Logically Synchronous (PALS) architecture. Rockwell Collins Inc has shown in their lab that using PALS, the verification time using model checking time for a dual redundant flight control system has reduced from 35 hours to less than 30 seconds, winning the 2009 David Lubkowski Memorial Award for the Advancement of Digital Avionics from American Institute of Aeronautics and Astronautics (AIAA). Running on top of PALS middleware, engineers can design, verify and run a networked (single-core) real-time control system as if it were a single computer at the fastest possible speed permitted by the platform.
-      </li>
-    </ul>
-  </p>
-</div>
+* Digital Avionics: National Academy of Science’s Committee on Certifiably Dependable Systems wrote, “One key to achieving dependability at a reasonable cost is a serious and sustained commitment to simplicity, including simplicity of critical functions and simplicity in system interactions. This commitment is often the mark of true expertise.  There is no alternative to simplicity. Advances in technology or development methods will not make simplicity redundant; on the contrary, they will give it greater leverage”. A notable invention of our team in this area is the Physically Asynchronous Logically Synchronous (PALS) architecture. Rockwell Collins Inc has shown in their lab that using PALS, the verification time using model checking time for a dual redundant flight control system has reduced from 35 hours to less than 30 seconds, winning the 2009 David Lubkowski Memorial Award for the Advancement of Digital Avionics from American Institute of Aeronautics and Astronautics (AIAA). Running on top of PALS middleware, engineers can design, verify and run a networked (single-core) real-time control system as if it were a single computer at the fastest possible speed permitted by the platform.
+
 
 
 ## Selected Projects
