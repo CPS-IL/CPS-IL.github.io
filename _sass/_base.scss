@@ -1034,3 +1034,15 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+.image-text-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: justify;
+}
+
+.image-text-container img {
+  max-width: 200px;
+  margin-left: 10px;
+}
