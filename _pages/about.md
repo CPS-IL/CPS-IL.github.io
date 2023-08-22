@@ -50,7 +50,7 @@ Profess David Liu is the pioneer of real-time system schedulability analysis. Hi
   <p>
     <ul>
       <li>
-        International Space Station: “Dear Dr. Sha, I hope this finds you doing well. I frequently recall your efforts on everyone’s behalf in convincing IBM on RMS principles for the Space Station Software…It has been a very exciting 5 years since the reconstruction of the Station from Freedom to its present configuration [International Space Station].” ISS C&DH Architecture and Software Manager, David Pruett, NASA Johnson Space Center, January 19, 2001.
+        International Space Station: “Dear Dr. Sha, I hope this finds you doing well. I frequently recall your efforts on everyone’s behalf in convincing IBM on RMS principles for the Space Station Software…It has been a very exciting 5 years since the reconstruction of the Station from Freedom to its present configuration International Space Station.” ISS C&DH Architecture and Software Manager, David Pruett, NASA Johnson Space Center, January 19, 2001.
       </li>
     </ul>
   </p>
@@ -61,7 +61,7 @@ Profess David Liu is the pioneer of real-time system schedulability analysis. Hi
   <p>
     <ul>
       <li>
-        Mars Pathfinder: (Rescuing Mars Pathfinder when its software repeatedly crashed on Mars due to real-time computing problems) “When was the last time you saw a room of people cheer a group of computer science theorists for their significant practical contribution to advancing human knowledge? 🙂  It was quite a moment.  … For the record, the paper was L. Sha, R. Rajkumar, and J. P. Lehoczky. Priority Inheritance Protocols: An Approach to Real-Time Synchronization. In IEEE Transactions on Computers, vol. 39, pp. 1175-1185, Sep. 1990.” [reported by Dr. Michael Jones of Microsoft Research.](http://catless.ncl.ac.uk/Risks/19.49.html)
+        Mars Pathfinder: (Rescuing Mars Pathfinder when its software repeatedly crashed on Mars due to real-time computing problems) “When was the last time you saw a room of people cheer a group of computer science theorists for their significant practical contribution to advancing human knowledge? 🙂  It was quite a moment.  … For the record, the paper was L. Sha, R. Rajkumar, and J. P. Lehoczky. Priority Inheritance Protocols: An Approach to Real-Time Synchronization. In IEEE Transactions on Computers, vol. 39, pp. 1175-1185, Sep. 1990.” <a href="http://catless.ncl.ac.uk/Risks/19.49.html">reported by Dr. Michael Jones of Microsoft Research.</a>
       </li>
     </ul>
   </p>
