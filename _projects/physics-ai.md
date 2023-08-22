@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Safe Physics AI
+title: Safe Physics-AI
 description: Physics Model Guided Machine Learning
 img: assets/img/physics-ai.jpg
 importance: 1
@@ -21,23 +21,35 @@ Traditionally,  we project a higher dimensional space to a lower dimension space
 
 </div>
 
-## Primary Work: Physics-Regulated Deep Reinforcement Learning Towards Safety Guarantee
+##### Work 1: Phy-DRL: Physics-Regulated Deep Reinforcement Learning (DRL) Towards Safety Guarantee
 
-
+<p>
+Phy-DRL = Physics Model-Based Policy + Data-Driven DRL Policy. 
 <div style="text-align: center;">
-  <img src="/assets/img/physics-ai/ph1.png" alt="Centered Image" style="width: 500px; height: auto;">
+  <img src="/assets/img/physics-ai/phydrl.png" alt="Centered Image" style="width: 500px; height: auto;">
 </div>
+</p>
 
+== Phy-DRL's Benefits: 
+- Best-Trade-Off: Simplify model-based policy to be an analyzable and verifiable linear one, while offering fast and stable training. 
+- Performance: Mathematically-provable safety and stability guarantees, with high system performance.  
+
+
+<p>
+Experiment in Cart-Pole System.
+<div style="text-align: center;">
+  <img src="/assets/img/physics-ai/id.png" alt="Centered Image" style="width: 500px; height: auto;">
+</div>
+</p>
+
+<p>
+Experiment in Quadruped Robot: safe lane tracking, safe velocity regulation, and safe center-gravity management.
 <div style="text-align: center;">
   <img src="/assets/img/physics-ai/ph2.png" alt="Centered Image" style="width: 500px; height: auto;">
 </div>
+</p>
 
-<div style="text-align: center;">
-  <img src="/assets/img/physics-ai/ph3.png" alt="Centered Image" style="width: 500px; height: auto;">
-</div>
-
-<div style="text-align: center;">
-  <img src="/assets/img/physics-ai/ph4.png" alt="Centered Image" style="width: 500px; height: auto;">
-</div>
-
-
+<p>
+Demonstration Video: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BK8k92jahfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
