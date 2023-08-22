@@ -35,20 +35,15 @@ Phy-DRL = Physics Model-Based Policy + Data-Driven DRL Policy.
 - Performance: Mathematically-provable safety and stability guarantees, with high system performance.  
 
 
-
-
-
-
-
 <p>
-Experiment in Cart-Pole Systems. 
+Experiment in Cart-Pole System.
 <div style="text-align: center;">
   <img src="/assets/img/physics-ai/id.png" alt="Centered Image" style="width: 500px; height: auto;">
 </div>
 </p>
 
 <p>
-Experiment in Quadruped Robot: safe lane tracking, safe velocity regulation, and safe center-gravity management 
+Experiment in Quadruped Robot: safe lane tracking, safe velocity regulation, and safe center-gravity management.
 <div style="text-align: center;">
   <img src="/assets/img/physics-ai/ph2.png" alt="Centered Image" style="width: 500px; height: auto;">
 </div>
@@ -56,6 +51,5 @@ Experiment in Quadruped Robot: safe lane tracking, safe velocity regulation, and
 
 <p>
 Demonstration Video: 
-{}{raw}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tspPMbZwfig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BK8k92jahfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
